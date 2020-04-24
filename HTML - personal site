@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<htmllang="en" dir="ltr">
+
+  <head>
+    <meta charset="utf-8">
+    <title>Howard's Personal Site</title>
+  </head>
+
+  <body>
+    <table cellspacing="20">
+      <tr>
+        <td> <img src="https://whitehotmagazine.com/articles/places-visionary-art-nancy-ogilvie/4532" alt=Howard King Logo></td>
+        <td><h1>Howard King</h1></td>
+      </tr>
+    </table>
+
+    <p>
+      <em>My <strong>First</strong> Webpage</em>
+      <style>
+body {
+  font-size: 20px;
+}
+</style>
+<body>
+
+
+    </p>
+    <p>
+      My current trade is that of a hydraulic crane operator and I am learning how to code.
+    </p>
+    <hr>
+    <h3>
+      I am currently taking <a href = " https://www.appbrewery.co/ "> The app brewery online course for coding.</a>
+    </h3>
+    <ul> <strong>
+       <h4> <li>
+
+          Schools I have attended</li></h4>
+      </strong>
+      <li>Baker High school</li>
+      <li> ITI Technical Institute</li>
+
+    </ul>
+    <hr>
+    <h3>Work Experience</h3>
+
+    <table>
+      <thead>
+        <style>
+table, th, td {
+  border: 5px solid black;
+  border-collapse: collapse;
+}
+</style>
+        <tr>
+          <th> Dates</th>
+          <th>Work</th>
+        </tr>
+      </thead>
+      <tbody>
+      <tr>
+        <td>1995-2010</td>
+        <td>NCCER Iron Worker, Rigger, Field Superviser, and Material Manager</td>
+      </tr>
+      <tr>
+        <td>2010-present</td>
+        <td>NCCO crane opreator</td>
+      </tr>
+      </tbody>
+      <tfoot>
+
+      </tfoot>
+
+
+    </table>
+
+    <h3>Skillz</h3>
+<ul>
+  <li><p>Crane Operator &#9889;&#9889;&#9889;&#9889;</p></li>
+ <li><p>Coding &#9889;</p></li>
+</ul>
+
+<a href="hobbies.html">  My Hobbies</a>
+<br />
+<a href= "contact information.html"> My Contact information</a>
+
+  </body>
+
+  </html>
+  </style>
+<body>
